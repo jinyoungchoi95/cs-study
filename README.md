@@ -10,7 +10,7 @@
 
 ## Network
 
-- #### [http](https://github.com/jinyoungchoi95/cs-study/tree/master/network)
+- #### [http](https://github.com/jinyoungchoi95/cs-study/blob/master/network/http.md)
 
 
 
