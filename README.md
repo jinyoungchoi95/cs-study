@@ -16,5 +16,5 @@
 
 ## Database
 
-- #### [Database](https://github.com/jinyoungchoi95/cs-study/blob/master/db/db.md)
+- #### [인덱스, 트랜잭션](https://github.com/jinyoungchoi95/cs-study/blob/master/db/db.md)
 
