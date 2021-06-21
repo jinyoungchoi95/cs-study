@@ -17,4 +17,3 @@
 ## Database
 
 - #### [데이터베이스 특징, 인덱스, 트랜잭션](https://github.com/jinyoungchoi95/cs-study/blob/master/db/db.md)
-
